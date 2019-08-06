@@ -1,0 +1,29 @@
+{
+  "name": "mistral",
+  "version": "0.0.0",
+  "description": "DND Character Creation",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koiix/Mistral.git"
+  },
+  "author": "Joel Kreider, Adam Brehm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koiix/Mistral/issues"
+  },
+  "homepage": "https://github.com/Koiix/Mistral#readme"
+}
